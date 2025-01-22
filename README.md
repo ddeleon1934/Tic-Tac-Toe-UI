@@ -22,7 +22,7 @@ The game allows two players to play on a 3x3 grid, with the goal of aligning thr
   ```
 
 ## How to Run
-1. Save the code to a file, for example, `tic_tac_toe.py`.
+1. Save the code to a file, for example, `main.py`.
 2. Run the script:
    ```bash
    python tic_tac_toe.py
